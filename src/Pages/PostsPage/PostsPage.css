@@ -1,0 +1,17 @@
+.floating-label-data {
+  padding-top: 5px;
+  display: block;
+  width: 50%;
+  text-align: left;
+  align-items: center;
+  margin: auto;
+}
+.table__data{
+    margin:0 auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 100%;  
+    text-align: center;
+    align-items: center;
+    display: block;
+}

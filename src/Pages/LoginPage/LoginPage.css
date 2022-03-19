@@ -1,0 +1,14 @@
+.login-page-form{
+    display: block;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.login-page-div{
+    display:  inline-block;
+    text-align: left;
+    margin: 20px auto;   
+    padding: 20px 20px; 
+    border: solid 3px;
+    border-radius:  5%;
+}

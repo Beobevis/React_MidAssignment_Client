@@ -1,0 +1,23 @@
+.detail-page-form{
+    display: block;
+    margin: 5px auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.detail-page-form-body{  
+    font-size: 20px;
+    font-weight: normal;
+    display: block;
+}
+.div_post_container{
+    display:  block;
+    text-align: center;
+    margin:  auto;   
+    padding: 20px 20px; 
+    border: solid 3px;
+    border-radius: 50px;
+    width: 60%;
+}
+
